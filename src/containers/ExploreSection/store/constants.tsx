@@ -1,0 +1,1 @@
+export const SCROLL_DOWN_VALUE = "SCROLL_DOWN_VALUE";
